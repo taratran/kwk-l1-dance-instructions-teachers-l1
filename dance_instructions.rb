@@ -15,4 +15,5 @@ puts "Briefly raise the opposite foot, then the #{starting_foot} twice more!"
 end 
 
 def bob_the_reins 
-end 
+puts "Holding your arms out in front of you, straight and at chest level"
+puts 
