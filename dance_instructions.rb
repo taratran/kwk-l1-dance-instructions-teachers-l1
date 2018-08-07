@@ -31,3 +31,11 @@ end
 def bust_a_move
   puts "Be cool and be snazzy ;)"
 end 
+
+def gangnam_style
+  starting_stance
+  base_footwork
+  skip_step("right foot")
+  bob_the_reins 
+  
+end 
